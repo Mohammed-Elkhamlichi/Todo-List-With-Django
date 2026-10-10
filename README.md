@@ -1,6 +1,5 @@
-# MEM_to_do_list
+# TO DO LIST
 
-## i used:
 python 3.8
 django 3.1
 Bootstarp4
